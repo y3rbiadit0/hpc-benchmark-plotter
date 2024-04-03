@@ -1,0 +1,7 @@
+Version 1 - Cores: 1,1,0.522446
+Version 1 - Compiler Optimized - Cores: 1,1,0.326524
+Version 2 - Improved localization - Cores: 1,1,0.027079
+Version 3 - OpenMP - Cores: 2,2,0.014061
+Version 3 - OpenMP - Cores: 4,4,0.007261
+Version 3 - OpenMP - Cores: 8,8,0.003777
+Version 3 - OpenMP - Cores: 16,16,0.004564
